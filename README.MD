@@ -7,8 +7,6 @@ Outputs "Deliverables" file with required information.
 # Setup
 1. Clone Repository 
 > git clone https://github.com/Shadowthynightwing/CLSE-572-Lipophilicity-Models.git
-
-> cd CLSE-572-Lipophilicity-Models
 2. Create Conda Environment
 > conda env create -f environment.yml
 3. Activate Conda Environment
