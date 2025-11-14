@@ -13,5 +13,5 @@ Outputs "Deliverables" file with required information.
 > conda activate CLSE_572_HW5_Predictions
 
 # Usage
-Run main Script as:
-> python Run_Models.py
+Run main Script
+> Run_Models.ipynb
