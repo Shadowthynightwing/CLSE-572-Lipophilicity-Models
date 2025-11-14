@@ -16,4 +16,6 @@ Outputs "Deliverables" file with required information.
 
 # Usage
 Run main Script
+> cd Predictions
+
 > Run_Models.ipynb
