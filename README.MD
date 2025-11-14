@@ -18,4 +18,4 @@ Outputs "Deliverables" file with required information.
 Run main Script
 > cd Predictions
 
-> Run_Models.py
+> python Run_Models.py
