@@ -1,0 +1,10 @@
+name: CLSE_572_HW5_Predictions
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - rdkit
+  - pandas
+  - numpy
+  - scikit-learn
