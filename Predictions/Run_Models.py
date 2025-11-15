@@ -116,6 +116,7 @@ print(f"MACCS RMSE: {MACCS_RMSE:.4f}")
 
 # Displaying Conda Envi
 os.getenv("CONDA_DEFAULT_ENV")
+print(f"Conda Env Name: {os.getenv('CONDA_DEFAULT_ENV')}")
 
 #Saving RMSE and Conda Env name to a text file
 with open("Deliverables", "w") as f:
