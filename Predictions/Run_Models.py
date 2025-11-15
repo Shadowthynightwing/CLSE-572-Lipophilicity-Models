@@ -119,7 +119,7 @@ os.getenv("CONDA_DEFAULT_ENV")
 print(f"Conda Env Name: {os.getenv('CONDA_DEFAULT_ENV')}")
 
 #Saving RMSE and Conda Env name to a text file
-with open("Deliverables", "w") as f:
+with open("Deliverables.csv", "w") as f:
     f.write(f"Conda Env Name: {os.getenv('CONDA_DEFAULT_ENV')}\n")
     f.write(f"Morgan RMSE: {Morgan_RMSE:.4f}\n")
     f.write(f"MACCS RMSE: {MACCS_RMSE:.4f}")
